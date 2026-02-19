@@ -1,0 +1,23 @@
+# Secrets - NEVER commit these
+.env
+token.json
+follower_history.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Original mockup files (optional, remove if you want them)
+# index.html
+# index.css
+# app.js
